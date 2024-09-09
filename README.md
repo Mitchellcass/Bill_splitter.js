@@ -1,1 +1,3 @@
-# Bill_splitter.js
+# Read Me First
+
+This is the coding challenge #2
